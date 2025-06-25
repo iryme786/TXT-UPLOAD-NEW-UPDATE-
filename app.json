@@ -8,17 +8,17 @@
         "pyrogram"
     ],
     "repository": "https://github.com/nikhilsainiop/saini-txt-direct",
-    "success_url": "https://t.me/saini_contact_bot",
+    "success_url": "https://t.me/lexm_8",
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑰𝑫",
-            "value": "",
+            "description": "ENTER YOUR API ID",
+            "value": "29320367",
             "required": true
         },
         "API_HASH": {
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑯𝒂𝒔𝒉",
-            "value": "",
+            "value": "f8083ef747c160b7eb41095454f59f92",
             "required": true
         },
         "BOT_TOKEN": {
@@ -33,7 +33,7 @@
         },
         "CREDIT": {
             "description": "𝙀𝙣𝙩𝙚𝙧 𝘾𝙧𝙚𝙙𝙞𝙩 𝙉𝙖𝙢𝙚 𝙞𝙣 𝙖𝙡𝙢𝙤𝙨𝙩 6-8 𝙡𝙚𝙩𝙩𝙚𝙧𝙨",
-            "value": "lexm_8",
+            "value": "@lexm_8",
             "required": true
         }
     },
